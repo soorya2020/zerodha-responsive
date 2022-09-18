@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Montserrat:ital,wght@0,400;0,700;0,800;1,900&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    color: #424242;
+   
+}
+.mt{
+    margin-top:13rem;
+}
+ul{list-style: none;}
+a:hover{text-decoration: none;}
+.bi{color: black  !important;}
+.bi:hover{color: blue !important;}
+section{margin-bottom: 80px; }
+footer{background-color:#fafafb; padding-top: 40px; padding-bottom: 10px;}
